@@ -1,12 +1,13 @@
 {
   "games": [
     {
-      "id": "rob-run",
-      "name": "ROB RUN",
+      "id": "rob-run-ch",
+      "name": "Rob Run CH",
       "version": "1.0.0",
-      "description": "-----",
-      "releaseUrl": "",
-      "sha256": ""
+      "description": "Rob Run kernel cheat",
+      "releaseUrl": "https://github.com/fiu458/HackStar-Server/releases/download/rob-run-ch-1.0.0/rob-run-ch.zip",
+      "sha256": "",
+      "installDir": "%USERPROFILE%\\Desktop\\ROB RUN"
     }
   ]
 }
