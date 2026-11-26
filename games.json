@@ -2,7 +2,6 @@
   "id": "rob-run-ch",
   "name": "Rob Run CH",
   "version": "1.0.0",
-  "description": "User-mode desktop application",
+  "description": "",
   "releaseUrl": "https://github.com/fiu458/HackStar-Server/releases/download/RobRun/ROB.RUN.zip",
-  "executable": "RobRunCH.exe"
 }
