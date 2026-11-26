@@ -1,7 +1,8 @@
 {
-  "id": "rob-run-ch",
-  "name": "Rob Run CH",
-  "version": "1.0.0",
-  "description": "",
+  "id": "goodapp",
+  "name": "GoodApp",
+  "version": "1.3.0",
+  "description": "GoodApp desktop application",
   "releaseUrl": "https://github.com/fiu458/HackStar-Server/releases/download/RobRun/GoodApp.Setup.1.3.0.zip",
+  "executable": "GoodApp.exe"
 }
