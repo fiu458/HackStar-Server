@@ -1,0 +1,12 @@
+{
+  "games": [
+    {
+      "id": "rob-run",
+      "name": "ROB RUN",
+      "version": "1.0.0",
+      "description": "Your description",
+      "releaseUrl": "https://github.com/USER/REPO/releases/download/rob-run-1.0.0/RobRun.exe",
+      "sha256": "..."
+    }
+  ]
+}
